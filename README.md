@@ -1,5 +1,5 @@
 # 📊 AI Data Analyst Agent
-
+**🔴 Live demo:** https://ai-data-analyst-ixmjzln5f5w45p3s95pvdg.streamlit.app/
 Upload a CSV / Excel / JSON / Parquet / TSV file and get an automatic analysis, a cleaning workspace, interactive charts, and a
 **tool-using AI analyst** you can talk to in **English, Hindi or Hinglish**. Every number comes from real computation
 (pandas / SciPy / scikit-learn) - the language model never does arithmetic from memory and never executes code.
